@@ -1,5 +1,6 @@
 #!/bin/bash
 
+chmod +x ./same.py
 tmp=/tmp/$$
 
 ERROR_EXIT () {
